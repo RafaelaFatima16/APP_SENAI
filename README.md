@@ -15,7 +15,7 @@ Este é um aplicativo simples de tela de login desenvolvido com React Native e E
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/Guilherme-Augusto06/Mobile-Pages-2.0.git
+    https://github.com/RafaelaFatima16/APP_SENAI/edit/main/README.md
 ```
 
 2. Navegue até o diretório do projeto:
